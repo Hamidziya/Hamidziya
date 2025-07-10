@@ -2,7 +2,7 @@
 
 ### 💻 Full Stack Web Developer | MERN & MEAN Stack Specialist | Backend Focused
 
-I'm a passionate backend developer with over **3 years of experience** building scalable web applications and APIs using **Node.js**, **MongoDB**, **Express**, and frontend frameworks like **React**, **Next.js**, and **Angular**. I’ve also worked extensively with **MySQL**, **Sequelize**, **Redis**, **Socket.io**, and more.
+I'm a passionate backend developer with over **5 years of experience** building scalable web applications and APIs using **Node.js**, **MongoDB**, **Express**, and frontend frameworks like **React**, **Next.js**, and **Angular**. I’ve also worked extensively with **MySQL**, **Sequelize**, **Redis**, **Socket.io**, and more.
 
 ---
 
