@@ -56,12 +56,6 @@ I'm a passionate backend developer with over **3 years of experience** building 
 - 💼 LinkedIn: [https://www.linkedin.com/in/hamid-ziya-ba7a22183/)
 - 🌐 Portfolio: *(Coming Soon)*
 
----
-
-## 📈 GitHub Stats
-
-![Hamid's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hamidziya&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hamidziya&layout=compact&theme=radical)
 
 ---
 
