@@ -2,7 +2,7 @@
 
 ### 💻 Full Stack Web Developer | MERN & MEAN Stack Specialist | Backend Focused
 
-I'm a passionate backend developer with over **5 years of experience** building scalable web applications and APIs using **Node.js**, **MongoDB**, **Express**, and frontend frameworks like **React**, **Next.js**, and **Angular**. I’ve also worked extensively with **MySQL**, **Sequelize**, **Redis**, **Socket.io**, and more.
+I'm a passionate backend developer with over **5 years of experience** building scalable web applications and APIs using **Node.js**, **MongoDB**, **Express**, and frontend frameworks like **React**, **Next.js**, and **Angular**. I’ve also worked extensively with **MySQL**, **Sequelize**, **Redis**, **Socket.io**, **Fastify**, **NestJS**, and more.
 
 ---
 
@@ -11,6 +11,8 @@ I'm a passionate backend developer with over **5 years of experience** building 
 ### 🖥️ Backend
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Fastify](https://img.shields.io/badge/Fastify-000000?style=for-the-badge&logo=fastify&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
 ![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=sequelize&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
@@ -53,11 +55,9 @@ I'm a passionate backend developer with over **5 years of experience** building 
 ## 📫 Let's Connect
 
 - 📧 Email: [hamidziya123@gmail.com](mailto:hamidziya123@gmail.com)
-- 💼 LinkedIn: [https://www.linkedin.com/in/hamid-ziya-ba7a22183/)
+- 💼 LinkedIn: [https://www.linkedin.com/in/hamid-ziya-ba7a22183/](https://www.linkedin.com/in/hamid-ziya-ba7a22183/)
 - 🌐 Portfolio: *(Coming Soon)*
-
 
 ---
 
 _Thanks for visiting!_
-
